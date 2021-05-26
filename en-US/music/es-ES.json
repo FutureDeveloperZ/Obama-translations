@@ -1,5 +1,4 @@
 {
-    "DESCRIPTION": "Shuffles the playlist.",
-    "USAGE": "shuffle",
-    "DESC": "Queue has been shuffled"
+    "DESCRIPTION": "Skips the current song.",
+    "USAGE": "skip"
 }
