@@ -4,8 +4,8 @@ files:
       - /README.md
     translation: /%locale%.json
   - source: /en-US/info/*.json
-    translation: /en-US/info/%locale%.json
+    translation: /%locale%/info/*.json
   - source: /en-US/**.json
-    translation: /en-US/%locale%.json
+    translation: /%locale%/**.json
   - source: /en-US/music/**.json
-    translation: /en-US/music/%locale%.json
+    translation: /%locale%/music/**.json
