@@ -1,8 +1,4 @@
 files:
-  - source: /language-meta.json
-    ignore:
-      - /README.md
-    translation: /%locale%.json
   - source: /en-US/info/*.json
     translation: /%locale%/info/%file_name%
   - source: /en-US/**.json
