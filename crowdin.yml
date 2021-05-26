@@ -1,7 +1,7 @@
 files:
   - source: /en-US/info/*.json
-    translation: /%locale%/info/%file_name%
+    translation: /%locale%/info/%file_name%.js
   - source: /en-US/**.json
-    translation: /%locale%/%file_name%
+    translation: /%locale%/%file_name%.js
   - source: /en-US/music/**.json
-    translation: /%locale%/music/%file_name%
+    translation: /%locale%/music/%file_name%.js
