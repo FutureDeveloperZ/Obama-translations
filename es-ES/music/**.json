@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Disconnects the bot from the voice channel.",
-    "USAGE": "dc",
-    "LEFT": "I have successfully left the voice channel.",
-    "INACTIVE": "I left 🔉 **{{VC}}** because I was inactive for too long.",
-    "KICKED": "The queue has ended as I was kicked from the voice channel"
+    "DESCRIPTION": "Rewinds the player by your specified amount.",
+    "USAGE": "rewind <time>",
+    "LIVESTREAM": "You can't rewind a livestream.",
+    "INVALID": "A song can not be less than 0 seconds long",
+    "NEW_TIME": "**Rewinded `{{OLD}}` to: `{{NEW}}`.**"
 }
