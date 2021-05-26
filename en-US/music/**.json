@@ -1,7 +1,6 @@
 {
-    "DESCRIPTION": "Rewinds the player by your specified amount.",
-    "USAGE": "rewind <time>",
-    "LIVESTREAM": "You can't rewind a livestream.",
-    "INVALID": "A song can not be less than 0 seconds long",
-    "NEW_TIME": "**Rewinded `{{OLD}}` to: `{{NEW}}`.**"
+    "DESCRIPTION": "Resumes the music.",
+    "USAGE": "resume",
+    "IS_RESUMED": "I am already playing, `{{PREFIX}}pause` to pause the song.",
+    "SUCCESS": "Successfully resuming song"
 }
