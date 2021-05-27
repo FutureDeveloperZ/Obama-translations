@@ -1,9 +1,9 @@
 {
   "DESCRIPTION": "Reproduz uma música.",
-  "USAGE": "play <link / song name>",
-  "NOT_VC": "You're not in a voice channel that I can connect to.",
-  "INVALID_FILE": "That file format is not supported.",
-  "ERROR": "There was an error while searching: `{{ERROR}}`",
+  "USAGE": "reproduz <link / song name>",
+  "NOT_VC": "Você não está em um canal de voz ao qual eu possa me conectar.",
+  "INVALID_FILE": "Esse formato de arquivo não é suportado.",
+  "ERROR": "Houve um erro ao pesquisar: `{{ERROR}}`",
   "NO_INPUT": "Please enter a song name/url",
   "QUEUED": "Queued **{{NUM}}** tracks",
   "SONG_ADD": "Added to queue: [{{TITLE}}]({{URL}})",
