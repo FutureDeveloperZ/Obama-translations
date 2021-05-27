@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Pausa a música.",
     "USAGE": "pausa",
-    "IS_PAUSED": "I am already paused, `{{PREFIX}}resume` to carry on listening.",
+    "IS_PAUSED": "Eu já estou pausado, use `{{PREFIX}}resume` para continuar escutando.",
     "SUCCESS": "Música pausada com sucesso"
 }
