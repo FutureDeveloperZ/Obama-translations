@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Avançar rapidamente o reprodutor pelo valor especificado.",
-    "USAGE": "avançar rapidamente <time>",
+    "USAGE": "avançar-rapidamente <time>",
     "LIVESTREAM": "Você não pode fazer isso com uma transmissão ao vivo.",
     "TOO_LONG": "A música possuí somente {{TIME}}.",
     "DESC": "**Avançou rapidamente de `{{OLD}}` para: `{{NEW}}`.**"
