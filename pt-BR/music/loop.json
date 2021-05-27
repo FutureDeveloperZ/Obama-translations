@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Loops the song or queue.",
-    "USAGE": "loop [queue / song]",
-    "TRACK": "{{TOGGLE}} track repeat.",
-    "QUEUE": "{{TOGGLE}} queue repeat."
+    "DESCRIPTION": "Faz loop na música ou na fila.",
+    "USAGE": "loop [fila / música]",
+    "TRACK": "{{TOGGLE}} repetição de faixa.",
+    "QUEUE": "{{TOGGLE}} repetição da fila."
 }
