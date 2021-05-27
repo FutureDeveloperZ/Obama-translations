@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Rewinds the player by your specified amount.",
-    "USAGE": "rewind <time>",
-    "LIVESTREAM": "You can't rewind a livestream.",
+    "DESCRIPTION": "Retrocede o reprodutor pelo valor especificado.",
+    "USAGE": "retrocede <time>",
+    "LIVESTREAM": "Você não pode retroceder uma transmissão ao vivo.",
     "INVALID": "A song can not be less than 0 seconds long",
     "NEW_TIME": "**Rewinded `{{OLD}}` to: `{{NEW}}`.**"
 }
