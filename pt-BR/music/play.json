@@ -4,7 +4,7 @@
   "NOT_VC": "Você não está em um canal de voz ao qual eu possa me conectar.",
   "INVALID_FILE": "Esse formato de arquivo não é suportado.",
   "ERROR": "Houve um erro ao pesquisar: `{{ERROR}}`",
-  "NO_INPUT": "Please enter a song name/url",
+  "NO_INPUT": "Por favor, insira o nome/url da música",
   "QUEUED": "Queued **{{NUM}}** tracks",
   "SONG_ADD": "Added to queue: [{{TITLE}}]({{URL}})",
   "NO_SONG": "I couldn't find that song."
