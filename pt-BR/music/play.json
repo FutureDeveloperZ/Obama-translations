@@ -1,5 +1,5 @@
 {
-  "DESCRIPTION": "Play a song.",
+  "DESCRIPTION": "Reproduz uma música.",
   "USAGE": "play <link / song name>",
   "NOT_VC": "You're not in a voice channel that I can connect to.",
   "INVALID_FILE": "That file format is not supported.",
