@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Shuffles the playlist.",
-    "USAGE": "shuffle",
-    "DESC": "Queue has been shuffled"
+    "DESCRIPTION": "Embaralha a playlist.",
+    "USAGE": "embaralha",
+    "DESC": "A lista foi embaralhada"
 }
