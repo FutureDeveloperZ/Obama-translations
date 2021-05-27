@@ -3,5 +3,5 @@
     "USAGE": "avançar rapidamente <time>",
     "LIVESTREAM": "Você não pode fazer isso com uma transmissão ao vivo.",
     "TOO_LONG": "A música possuí somente {{TIME}}.",
-    "DESC": "**Fast-forwarded `{{OLD}}` to: `{{NEW}}`.**"
+    "DESC": "**Avançou rapidamente de `{{OLD}}` para: `{{NEW}}`.**"
 }
