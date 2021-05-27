@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Desconectao bot do canal de voz.",
+    "DESCRIPTION": "Desconecta o bot do canal de voz.",
     "USAGE": "dc",
     "LEFT": "Eu saí com sucesso do canal de voz.",
     "INACTIVE": "Eu saí 🔉 **{{VC}}**, porque eu estava inativo por muito tempo.",
-    "KICKED": "The queue has ended as I was kicked from the voice channel"
+    "KICKED": "A lista terminou quando eu fui expulso do chat de voz"
 }
