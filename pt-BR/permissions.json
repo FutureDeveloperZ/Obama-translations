@@ -25,9 +25,9 @@
 	"CONNECT": "Conectar",
 	"SPEAK": "Falar",
 	"STREAM": "Vídeo",
-	"MUTE_MEMBERS": "Mute Members",
-	"DEAFEN_MEMBERS": "Deafen Members",
-	"MOVE_MEMBERS": "Move Members",
-	"USE_VAD": "Use Voice Activity",
-	"PRIORITY_SPEAKER": "Priority Speaker"
+	"MUTE_MEMBERS": "Silenciar membros",
+	"DEAFEN_MEMBERS": "Ensurdecer membros",
+	"MOVE_MEMBERS": "Mover membros",
+	"USE_VAD": "Usar detecção de voz",
+	"PRIORITY_SPEAKER": "Voz Prioritária"
 }
