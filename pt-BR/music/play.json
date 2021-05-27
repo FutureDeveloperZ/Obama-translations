@@ -5,7 +5,7 @@
   "INVALID_FILE": "Esse formato de arquivo não é suportado.",
   "ERROR": "Houve um erro ao pesquisar: `{{ERROR}}`",
   "NO_INPUT": "Por favor, insira o nome/url da música",
-  "QUEUED": "Queued **{{NUM}}** tracks",
-  "SONG_ADD": "Added to queue: [{{TITLE}}]({{URL}})",
-  "NO_SONG": "I couldn't find that song."
+  "QUEUED": "**{{NUM}}** músicas na fila",
+  "SONG_ADD": "Adicionado à fila: [{{TITLE}}]({{URL}})",
+  "NO_SONG": "Eu não consegui encontrar essa música."
 }
