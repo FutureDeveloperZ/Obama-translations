@@ -1,4 +1,4 @@
 {
-    "DESCRIPTION": "Skips the current song.",
-    "USAGE": "skip"
+    "DESCRIPTION": "Pula a música atual.",
+    "USAGE": "pular"
 }
