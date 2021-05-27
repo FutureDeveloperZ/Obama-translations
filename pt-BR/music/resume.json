@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Resumes the music.",
-    "USAGE": "resume",
-    "IS_RESUMED": "I am already playing, `{{PREFIX}}pause` to pause the song.",
-    "SUCCESS": "Successfully resuming song"
+    "DESCRIPTION": "Retoma a música.",
+    "USAGE": "retomar",
+    "IS_RESUMED": "Eu já estou tocando, use `{{PREFIX}}pause` para pausar a música.",
+    "SUCCESS": "Música retomada com sucesso"
 }
