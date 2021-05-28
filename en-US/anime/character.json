@@ -1,0 +1,14 @@
+{
+    "DESCRIPTION": "Shows Anime Character Info",
+    "USAGE": "character <name>",
+
+    "NO_FOUND": "No Character Found",
+    "SEARCHING": "Searching information about **{{NAME}}** on Kitsu.io!. This may take a hot second",
+
+    "NO_DESCRIPTION": "No Description Found",
+    "ROLE": "ROLE",
+    "VCA": "Voice Actor",
+    "NOVCA": "No Voice Actors Found",
+    "QUOTES": "Quotes:"
+
+}

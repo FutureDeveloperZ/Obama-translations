@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Search for good sauce",
+    "USAGE": "doujin <code>",
+
+    "EXIST": "This dojin doesn't exist",
+    "SEARCHING": "Searching information about **{{NAME}}** on nHentai!. This may take a hot second",
+
+    "TAGS": "Tags: **{{TAGS}}**",
+    "PAGES": "Pages: {{PAGES}}"
+}
