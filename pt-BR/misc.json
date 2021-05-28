@@ -20,7 +20,7 @@
 	"NO_QUEUE": "Atualmente, não há nenhuma música sendo reproduzida neste servidor.",
 	"ENABLED": "Habilitado",
 	"DISABLED": "Desabilitado",
-	"NO_TIME": "No Time Found",
+	"NO_TIME": "Nenhuma duração encontrada",
 	"MISSING_ROLE": "Eu não consegui encontrar tal cargo.",
 	"INCORRECT_DELIMITERS": "Por favor use um dos seguintes delimitadores de tempo: `d`, `h`, `m`, `s`.",
 	"NOT_NUMBER": "Deve ser um número.",
