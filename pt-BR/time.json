@@ -1,4 +1,6 @@
 {
+    "ONE_MONTH": "1 month",
+    "MONTHS": "{{amount}} months",
     "ONE_DAY": "1 dia",
     "DAYS": "{{amount}} dias",
     "ONE_HOUR": "1 hora",
