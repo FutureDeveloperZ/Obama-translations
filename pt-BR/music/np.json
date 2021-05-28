@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Shows the current song playing.",
+    "DESCRIPTION": "Mostra a música que está sendo reproduzida.",
     "USAGE": "np",
-    "LIVE": "🔴 LIVE",
-    "AUTHOR": "» Now playing:"
+    "LIVE": "🔴 Ao Vivo",
+    "AUTHOR": "» Reproduzindo agora:"
 }
