@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Search for good sauce",
+    "DESCRIPTION": "Procure por algo quente",
     "USAGE": "doujin <code>",
-    "EXIST": "This dojin doesn't exist",
-    "SEARCHING": "Searching information about **{{NAME}}** on nHentai!. This may take a hot second",
-    "TAGS": "Tags: **{{TAGS}}**",
+    "EXIST": "Este doujin não existe",
+    "SEARCHING": "Procurando informações sobre **{{NAME}}** em nHentai!. Isso pode demorar um longo segundo",
+    "TAGS": "Marcadores: **{{TAGS}}**",
     "PAGES": "Pages: {{PAGES}}"
 }
