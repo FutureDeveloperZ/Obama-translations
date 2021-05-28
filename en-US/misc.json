@@ -20,6 +20,7 @@
 	"NO_QUEUE": "There are currently no songs playing in this server.",
 	"ENABLED": "Enabled",
 	"DISABLED": "Disabled",
+	"NO_TIME": "No Time Found",
 
 
 	"MISSING_ROLE": "I was unable to find this role.",
