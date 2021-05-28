@@ -5,3 +5,5 @@ files:
     translation: /%locale%/%original_file_name%
   - source: /en-US/music/**.json
     translation: /%locale%/music/%original_file_name%
+  - source: /en-US/anime/**.json
+    translation: /%locale%/anime/%original_file_name%
