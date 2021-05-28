@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Shows Anime Character Info",
-    "USAGE": "character <name>",
-    "NO_FOUND": "No Character Found",
-    "SEARCHING": "Searching information about **{{NAME}}** on Kitsu.io!. This may take a hot second",
-    "NO_DESCRIPTION": "No Description Found",
-    "ROLE": "ROLE",
-    "VCA": "Voice Actor",
-    "NOVCA": "No Voice Actors Found",
-    "QUOTES": "Quotes:"
+    "DESCRIPTION": "Mostra Informações do Personagem de Anime",
+    "USAGE": "personagem <name>",
+    "NO_FOUND": "Nenhum personagem encontrado",
+    "SEARCHING": "Procurando informações sobre **{{NAME}}** em Kitsu.io!. Isso pode demorar um longo segundo",
+    "NO_DESCRIPTION": "Nenhuma descrição encontrada",
+    "ROLE": "PAPEL",
+    "VCA": "Dublador",
+    "NOVCA": "Nenhum dublador encontrado",
+    "QUOTES": "Citações:"
 }
