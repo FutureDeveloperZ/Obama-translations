@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Mostra informações sobre um perfil do Kitsu",
     "USAGE": "kitsu [name]",
-    "INSERT": "Please insert a username or do `f;kitsulink <slug>` so u dont need to type your username",
-    "SEARCHING": "Searching information about **{{NAME}}** on Kitsu.io!. This may take a hot second",
+    "INSERT": "Por favor insira um nome de usuário ou use `f;kitsulink <slug>`, então não será necessário digitar o nome de usuário",
+    "SEARCHING": "Procurando informações sobre **{{NAME}}** em Kitsu.io!. Isso pode demorar um longo segundo",
     "NOT_FOUND": "No Profile found that user name",
     "INFO": "INFO",
     "LOCATION": "Location: **{{AREA}}**",
