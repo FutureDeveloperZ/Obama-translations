@@ -13,7 +13,7 @@
     "STATS": "Estatísticas",
     "LOCATION": "Localização: **{{LOCATION}}**",
     "ATK": "Ataque Base **{{ATTACK}}**",
-    "SUBSTATS": "Sub Estatísticas: **{{STATS}}**",
+    "SUBSTATS": "Sub Estatística: **{{STATS}}**",
     "TYPE": "Tipo: **{{TYPE}}**",
     "WRONG": "ERRADO",
     "PLEASE": "Por favor, use (character ou weapons) para pesquisar"
