@@ -14,7 +14,7 @@
     "CHAPTERS": "CAPÍTULO",
     "CHAPTER": "Capítulos: **{{AMOUNT}}**",
     "VOLUME": "Volumes: **{{AMOUNT}}**",
-    "START": "Started on **{{DATE}}**",
-    "END": "Ended on **{{DATE}}**",
-    "GENRES": "GENRES"
+    "START": "Iniciado em **{{DATE}}**",
+    "END": "Encerrado em **{{DATE}}**",
+    "GENRES": "Gêneros"
 }
