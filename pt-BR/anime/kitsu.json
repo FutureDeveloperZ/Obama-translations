@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Shows Kitsu Profile Info",
+    "DESCRIPTION": "Mostra informações sobre um perfil do Kitsu",
     "USAGE": "kitsu [name]",
     "INSERT": "Please insert a username or do `f;kitsulink <slug>` so u dont need to type your username",
     "SEARCHING": "Searching information about **{{NAME}}** on Kitsu.io!. This may take a hot second",
