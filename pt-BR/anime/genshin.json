@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Search Genshin Impact stuff releated",
+    "DESCRIPTION": "Pesquisa coisas relacionadas a Genshin Impact",
     "USAGE": "genshin <weapons | characters> <name>",
-    "INPUT": "Please input a character to search",
-    "CHAR_FOUND": "I couldn't find that Character... :(",
-    "WEAP_FOUND": "I couldn't find that Weapon... :(",
+    "INPUT": "Por favor, insira um personagem para pesquisar",
+    "CHAR_FOUND": "Eu não consegui encontrar este personagem... :(",
+    "WEAP_FOUND": "Eu não consegui encontrar esta arma... :(",
     "SEARCHING": "Searching information about **{{NAME}}** on Genshin Impact. This may take a hot second",
     "INFO": "INFORMATION",
     "GENDER": "Gender: **{{GENDER}}**",
