@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Deposit your money to the Bank",
+    "DESCRIPTION": "Deposite o seu dinheiro no banco",
     "USAGE": "deposit <all | number>",
-    "NO_MONEY": "U dont have money to deposit",
-    "NO_DEPOSIT": "U can't deposit more money",
+    "NO_MONEY": "Você não possuí dinheiro para depositar",
+    "NO_DEPOSIT": "Você não pode depositar mais dinheiro",
     "SENT": "{{USER}}$ has been sent to his bank",
     "TRANSFER": "{{AMOUNT}}$ Has been transfer to bank, now u have {{USER}}$",
     "NO_SPACE": "U dont have space to store at your bank"
