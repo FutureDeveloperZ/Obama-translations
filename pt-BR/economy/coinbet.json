@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Bet coins with another user",
+    "DESCRIPTION": "Aposta moedas com outro usuário",
     "USAGE": "coinbet <user> <money> <heads/tail>",
-    "NO_USER": "You need to mention someone!",
+    "NO_USER": "Você precisa mencionar alguém!",
     "NO_URSELF": "You can't bet with yourself",
     "NO_MONEY": "You need to bet some money!",
     "SIDES": "You need to say what side of the coin you want `heads` or `tails`",
