@@ -1,0 +1,19 @@
+{
+    "DESCRIPTION": "Bet coins with another user",
+    "USAGE": "coinbet <user> <money> <heads/tail>",
+
+    "NO_USER": "You need to mention someone!",
+    "NO_URSELF": "You can't bet with yourself",
+    "NO_MONEY": "You need to bet some money!",
+    "SIDES": "You need to say what side of the coin you want `heads` or `tails`",
+    "LESS": "You can't bet less than 1$!",
+    "NO_ACC": "That user dosen't have an account!",
+
+    "NOT_MUCH": "You don´t have that much to bet!",
+    "NOT_USER_MUCH": "The user don´t have that much to bet!",
+
+    "AUTHOR_BET": "{{AUTHOR}}, want to bet {{BET}}$ with {{USER}}\n{{USER}}, If you accept click on ☑️",
+    "AUTHOR_WIN": "{{AUTHOR}} You win: {{BET}}$\n{{USER}} Lost {{BET}}$",
+
+    "USER_WIN": "{{USER}} You win: {{BET}}$\n{{AUTHOR}} Lost {{BET}}$"
+}
