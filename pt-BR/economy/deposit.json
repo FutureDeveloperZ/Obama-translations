@@ -5,5 +5,5 @@
     "NO_DEPOSIT": "Você não pode depositar mais dinheiro",
     "SENT": "{{USER}}$ foram enviados para os seu banco",
     "TRANSFER": "{{AMOUNT}}$ foram transferidos para o seu banco, agora você tem {{USER}}$",
-    "NO_SPACE": "U dont have space to store at your bank"
+    "NO_SPACE": "Você não tem espaço para armazenar no seu banco"
 }
