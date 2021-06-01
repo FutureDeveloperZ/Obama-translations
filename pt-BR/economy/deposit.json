@@ -3,7 +3,7 @@
     "USAGE": "deposit <all | number>",
     "NO_MONEY": "Você não possuí dinheiro para depositar",
     "NO_DEPOSIT": "Você não pode depositar mais dinheiro",
-    "SENT": "{{USER}}$ has been sent to his bank",
-    "TRANSFER": "{{AMOUNT}}$ Has been transfer to bank, now u have {{USER}}$",
+    "SENT": "{{USER}}$ foram enviados para os seu banco",
+    "TRANSFER": "{{AMOUNT}}$ foram transferidos para o seu banco, agora você tem {{USER}}$",
     "NO_SPACE": "U dont have space to store at your bank"
 }
