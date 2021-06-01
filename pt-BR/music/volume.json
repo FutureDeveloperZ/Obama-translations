@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Altera o volume da música",
+    "USAGE": "volume <Number>",
+    "CURRENT": "🔊 O volume atual é: **{{NUM}}%**.",
+    "UPDATED": "🔊 Som do reprodutor definido para **{{NUM}}%**.",
+    "TOO_HIGH": "Por favor, insira um número entre 0 e 1000."
+}

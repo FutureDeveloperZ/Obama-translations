@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Get your daily money",
+    "USAGE": "",
+    "COLLECT": "Collect again in {{HOURS}}h  {{MINUTES}}m {SECONDS}s",
+    "TITLE": "You already claim your daily!",
+    "TITLE2": "Congrats!",
+    "REWARD": "You received {{REWARD}}$ from your daily."
+}

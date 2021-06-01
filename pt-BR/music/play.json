@@ -1,0 +1,11 @@
+{
+  "DESCRIPTION": "Reproduz uma música.",
+  "USAGE": "reproduz <link / song name>",
+  "NOT_VC": "Você não está em um canal de voz ao qual eu possa me conectar.",
+  "INVALID_FILE": "Esse formato de arquivo não é suportado.",
+  "ERROR": "Houve um erro ao pesquisar: `{{ERROR}}`",
+  "NO_INPUT": "Por favor, insira o nome/url da música",
+  "QUEUED": "**{{NUM}}** músicas na lista",
+  "SONG_ADD": "Adicionado à lista: [{{TITLE}}]({{URL}})",
+  "NO_SONG": "Eu não consegui encontrar essa música."
+}

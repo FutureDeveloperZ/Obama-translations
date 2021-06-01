@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Retrocede o reprodutor pelo valor especificado.",
+    "USAGE": "retrocede <time>",
+    "LIVESTREAM": "Você não pode retroceder uma transmissão ao vivo.",
+    "INVALID": "Uma música não pode ser menor que 0 segundos",
+    "NEW_TIME": "**Retrocedeu de `{{OLD}}` para: `{{NEW}}`.**"
+}

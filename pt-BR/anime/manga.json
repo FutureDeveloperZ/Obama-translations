@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Mostra informações do Manga",
+    "USAGE": "manga <name>",
+    "NOT_FOUND": "Nenhum Manga foi encontrado com este nome",
+    "SEARCHING": "Procurando Informações sobre **{{NAME}}** em Kitsu.io!. Isso pode demorar um longo segundo",
+    "INFO": "INFORMAÇÕES",
+    "AVARAGE": "Média de avaliações: **{{RATING}}**",
+    "AGE_RAT": "Classificação etária **{{AGE}}**",
+    "AGE_GUI": "Guia etário: **{{AGE}}**",
+    "STATS": "ESTATÍSTICAS",
+    "TYPE": "Tipo: **{{SUB}}**",
+    "POP_RANK": "Rank de Popularidade: **#{{RANK}}**",
+    "STATUS": "Estado: **{{STATUS}}**",
+    "CHAPTERS": "CAPÍTULO",
+    "CHAPTER": "Capítulos: **{{AMOUNT}}**",
+    "VOLUME": "Volumes: **{{AMOUNT}}**",
+    "START": "Iniciado em **{{DATE}}**",
+    "END": "Encerrado em **{{DATE}}**",
+    "GENRES": "Gêneros"
+}

@@ -1,0 +1,21 @@
+{
+    "DESCRIPTION": "Shows Anime Info",
+    "USAGE": "anime <name>",
+    "NO_FOUND": "No Anime has been found with that name",
+    "SEARCHING": "Searching information about **{{NAME}}** on Kitsu.io!. This may take a hot second",
+    "NSFW": "Please use this command on a NSFW channel",
+    "INFO": "INFO",
+    "AVARAGE": "Avarage Rating: **{{RATING}}**",
+    "AGE_RAT": "Age Rating: **{{AGE}}**",
+    "AGE_GUI": "Age guide: **{{AGE}}**",
+    "STATS": "STATS",
+    "TYPE": "Type: **{{SUB}}**",
+    "POP_RANK": "Popularity Rank: **#{{RANK}}**",
+    "STATUS": "Status: **{{STATUS}}**",
+    "EPISODES": "EPISODES",
+    "EP_LENGTH": "Episodes length: **{{LENGTH}}**",
+    "EPISO": "Episodes: **{{EPISODES}}**",
+    "TOTAL_LENGTH": "Total Length: **{{LENGTH}}**",
+    "STARTED": "Started on **{{DATE}}**",
+    "ENDED": "Ended on **{{DATE}}**"
+}

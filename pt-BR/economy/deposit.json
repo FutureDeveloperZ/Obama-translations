@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Deposit your money to the Bank",
+    "USAGE": "deposit <all | number>",
+    "NO_MONEY": "U dont have money to deposit",
+    "NO_DEPOSIT": "U can't deposit more money",
+    "SENT": "{{USER}}$ has been sent to his bank",
+    "TRANSFER": "{{AMOUNT}}$ Has been transfer to bank, now u have {{USER}}$",
+    "NO_SPACE": "U dont have space to store at your bank"
+}

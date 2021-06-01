@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Alterna o modo nightcore.",
+    "USAGE": "nightcore",
+    "ON_NC": "Ligando o modo **nightcore**. Isso pode levar alguns segundos...",
+    "DESC_1": "Modo **nightcore** ligado",
+    "OFF_NC": "Desligando o modo **nightcore**. Isso pode levar alguns segundos...",
+    "DESC_2": "Modo **nightcore** desligado"
+}

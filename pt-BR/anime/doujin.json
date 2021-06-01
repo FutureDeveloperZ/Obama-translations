@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Procure por algo quente",
+    "USAGE": "doujin <code>",
+    "EXIST": "Este doujin não existe",
+    "SEARCHING": "Procurando informações sobre **{{NAME}}** em nHentai!. Isso pode demorar um longo segundo",
+    "TAGS": "Marcadores: **{{TAGS}}**",
+    "PAGES": "Páginas: {{PAGES}}"
+}

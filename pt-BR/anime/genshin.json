@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION": "Pesquisa coisas relacionadas a Genshin Impact",
+    "USAGE": "genshin <weapons | characters> <name>",
+    "INPUT": "Por favor, insira um personagem para pesquisar",
+    "CHAR_FOUND": "Eu não consegui encontrar este personagem... :(",
+    "WEAP_FOUND": "Eu não consegui encontrar esta arma... :(",
+    "SEARCHING": "Procurando informações sobre **{{NAME}}** em Genshin Impact. Isso pode demorar um longo segundo",
+    "INFO": "INFORMAÇÕES",
+    "GENDER": "Gênero: **{{GENDER}}**",
+    "ELEMENT": "Elemento: **{{ELEMENT}}**",
+    "WEAPON": "Arma: **{{WEAPON}}**",
+    "CITY": "Cidade: **{{CITY}}**",
+    "STATS": "Estatísticas",
+    "LOCATION": "Localização: **{{LOCATION}}**",
+    "ATK": "Ataque Base **{{ATTACK}}**",
+    "SUBSTATS": "Sub Estatística: **{{STATS}}**",
+    "TYPE": "Tipo: **{{TYPE}}**",
+    "WRONG": "ERRADO",
+    "PLEASE": "Por favor, use (character ou weapons) para pesquisar"
+}

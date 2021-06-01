@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Exibe a lista de músicas.",
+    "USAGE": "lista [pageNumber]",
+    "EMPTY": "A lista está vazia",
+    "NAN": "A página precisa ser um número.",
+    "TOO_HIGH": "Existem apenas {{NUM}} páginas disponíveis."
+}

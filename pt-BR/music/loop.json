@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Faz loop na música ou na lista.",
+    "USAGE": "loop [lista / música]",
+    "TRACK": "{{TOGGLE}} repetição de faixa.",
+    "QUEUE": "{{TOGGLE}} repetição da lista."
+}

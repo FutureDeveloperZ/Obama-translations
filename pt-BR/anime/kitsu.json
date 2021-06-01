@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Mostra informações sobre um perfil do Kitsu",
+    "USAGE": "kitsu [name]",
+    "INSERT": "Por favor insira um nome de usuário ou use `f;kitsulink <slug>`, então não será necessário digitar o nome de usuário",
+    "SEARCHING": "Procurando informações sobre **{{NAME}}** em Kitsu.io!. Isso pode demorar um longo segundo",
+    "NOT_FOUND": "Nenhum perfil foi encontrado com esse nome",
+    "INFO": "INFORMAÇÕES",
+    "LOCATION": "Localização:**{{AREA}}**",
+    "BIRTHDAY": "Nascimento: **{{BIRTHDAY}}**",
+    "GENDER": "Gênero: **{{GENDER}}**",
+    "AN_COM": "Animes completados: **{{AMOUNT}}**",
+    "MAN_COM": "Mangás completados: **{{AMOUNT}}**",
+    "TSOA": "Tempo gasto em Animes: **{{TIME}}**",
+    "SOCIAL": "ESTATÍSTICAS SOCIAIS",
+    "FOLLOWERS": "Seguidores: {{AMOUNT}}",
+    "FOLLOWING": "Seguindo: {{AMOUNT}}",
+    "COMMENTS": "Comentários: {{AMOUNT}}",
+    "FAV": "Favoritos: {{AMOUNT}}",
+    "LIKE_RE": "Curtidas recebidas: {{AMOUNT}}",
+    "POSTS": "Postagens: {{AMOUNT}}",
+    "MEDIA": "Reações de Mídia: {{AMOUNT}}"
+}
