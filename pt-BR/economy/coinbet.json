@@ -4,7 +4,7 @@
     "NO_USER": "Você precisa mencionar alguém!",
     "NO_URSELF": "Você não pode apostar consigo mesmo",
     "NO_MONEY": "Você precisa apostar algum dinheiro!",
-    "SIDES": "Você precisa falar qual lado da moeda você quer `cara` ou `coroa`",
+    "SIDES": "Você precisa falar qual lado da moeda você quer `heads` ou `tails`",
     "LESS": "Você não pode apostar menos de $1!",
     "NO_ACC": "Este usuário não possuí uma conta!",
     "NOT_MUCH": "Você não tem tudo isso para apostar!",
