@@ -1,0 +1,6 @@
+{
+    "DESCRIPTION": "Check the leaderboard",
+    "USAGE": "",
+    "TITLE": "LEADERBOARD",
+    "FOOTER": "page {{PAGE}} of {{PAGES}}"
+}

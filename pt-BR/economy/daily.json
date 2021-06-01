@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Get your daily money",
+    "DESCRIPTION": "Receba o seu prêmio diário",
     "USAGE": "",
-    "COLLECT": "Collect again in {{HOURS}}h  {{MINUTES}}m {SECONDS}s",
-    "TITLE": "You already claim your daily!",
-    "TITLE2": "Congrats!",
-    "REWARD": "You received {{REWARD}}$ from your daily."
+    "COLLECT": "Colete novamente em {{HOURS}}h {{MINUTES}}m {SECONDS}s",
+    "TITLE": "Você já reivindicou o seu prêmio diário!",
+    "TITLE2": "Parabéns!",
+    "REWARD": "Você recebeu {{REWARD}}$ do seu prêmio diário."
 }
