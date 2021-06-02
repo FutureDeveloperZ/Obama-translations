@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Deposit your money to the Bank",
+    "USAGE": "withdraw <all | number>",
+
+    "NO_MONEY": "U dont have money to withdraw",
+    "WALLET": "{{AMOUNT}}$ has been sent to his wallet",
+    "DONE": "{{AMOUNT}}$ Has been withdrawn to wallet, now u have {{MONEY}}$ on Bank",
+    "TOO_MUCH": "Don't input more money than u have"
+}
