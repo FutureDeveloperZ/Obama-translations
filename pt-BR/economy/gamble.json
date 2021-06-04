@@ -4,7 +4,7 @@
     "NO_MONEY": "Você não tem dinheiro",
     "NO_BET": "Por favor, especifique uma aposta.",
     "NO_MUCH": "Você não possuí tanto para apostar",
-    "TITLE": "Bet!",
-    "WIN": "{{AMOUNT}}$, You win. \nNew Balance: {{MONEY}}$",
-    "LOST": "{{AMOUNT}}$, You lost. \nNew Balance: {{MONEY}}$"
+    "TITLE": "Aposta!",
+    "WIN": "{{AMOUNT}}$, Você ganhou. \nNovo Saldo: {{MONEY}}$",
+    "LOST": "{{AMOUNT}}$, Você perdeu. \nNovo Saldo: {{MONEY}}$"
 }
