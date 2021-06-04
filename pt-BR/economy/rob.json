@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Rob someone for free money",
+    "DESCRIPTION": "Roube alguém por dinheiro grátis",
     "USAGE": "rob <user>",
-    "NO_USER": "No user found",
-    "NO_MONEY": "U dont have money to rob this person",
-    "NO_M_USER": "User does not have money to rob",
-    "2MIN": "u can rob this person in 2 minutes",
-    "WIN": "You have rob him out of {{AMOUNT}}$",
-    "LOST": "You failed to rob him and u have been fined $250"
+    "NO_USER": "Nenhum usuário encontrado",
+    "NO_MONEY": "Você não tem dinheiro para roubar esta pessoa",
+    "NO_M_USER": "O usuário não tem dinheiro para roubar",
+    "2MIN": "Você pode roubar esta pessoa em 2 minutos",
+    "WIN": "Você roubou dele {{AMOUNT}}$",
+    "LOST": "Você não conseguiu roubá-lo e você foi multado em $250"
 }
