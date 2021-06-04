@@ -1,9 +1,9 @@
 {
-    "DESCRIPTION": "Gamble your money for more money",
+    "DESCRIPTION": "Aposte o seu dinheiro por mais dinheiro",
     "USAGE": "gamble <bet>",
-    "NO_MONEY": "You Don´t have money",
-    "NO_BET": "Please specify a bet.",
-    "NO_MUCH": "You Don't have that much to bet",
+    "NO_MONEY": "Você não tem dinheiro",
+    "NO_BET": "Por favor, especifique uma aposta.",
+    "NO_MUCH": "Você não possuí tanto para apostar",
     "TITLE": "Bet!",
     "WIN": "{{AMOUNT}}$, You win. \nNew Balance: {{MONEY}}$",
     "LOST": "{{AMOUNT}}$, You lost. \nNew Balance: {{MONEY}}$"
