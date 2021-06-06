@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Get your daily money",
+    "DESCRIPTION": "Obtenha o seu dinheiro diário",
     "USAGE": "",
-    "AGAIN": "Work again in ${time.minutes}m ${time.seconds}s",
-    "TITLE": "You already worked today!",
-    "TITLE2": "Congrats!",
-    "REWARD": "You received {{REWARD}} for your work."
+    "AGAIN": "Trabalhe novamente em ${time.minutes}m ${time.seconds}s",
+    "TITLE": "Você já trabalhou hoje!",
+    "TITLE2": "Parabéns!",
+    "REWARD": "Você recebeu {{REWARD}} pelo seu trabalho."
 }
