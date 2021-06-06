@@ -3,6 +3,6 @@
     "USAGE": "withdraw <all | number>",
     "NO_MONEY": "Você não tem dinheiro para sacar",
     "WALLET": "{{AMOUNT}}$ foram enviados para a sua carteira",
-    "DONE": "{{AMOUNT}}$ Has been withdrawn to wallet, now u have {{MONEY}}$ on Bank",
-    "TOO_MUCH": "Don't input more money than u have"
+    "DONE": "{{AMOUNT}}$ foram transferidos para a sua carteira, agora você tem {{MONEY}}$ no Banco",
+    "TOO_MUCH": "Não retire mais dinheiro do que você tem"
 }
