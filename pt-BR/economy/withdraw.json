@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Deposite o seu dinheiro no Banco",
+    "USAGE": "withdraw <all | number>",
+    "NO_MONEY": "Você não tem dinheiro para sacar",
+    "WALLET": "{{AMOUNT}}$ foram enviados para a sua carteira",
+    "DONE": "{{AMOUNT}}$ foram transferidos para a sua carteira, agora você tem {{MONEY}}$ no Banco",
+    "TOO_MUCH": "Não retire mais dinheiro do que você tem"
+}

@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Check the leaderboard",
+    "DESCRIPTION": "Verifique o placar",
     "USAGE": "",
-    "TITLE": "LEADERBOARD",
-    "FOOTER": "page {{PAGE}} of {{PAGES}}"
+    "TITLE": "PLACAR",
+    "FOOTER": "página {{PAGE}} de {{PAGES}}"
 }

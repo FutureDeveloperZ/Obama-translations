@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Pay a user",
+    "USAGE": "pay <user> <money>",
+    "NO_FOUND": "Sorry, could't find that user.",
+    "NO_URSELF": "Hey, u can't pay to yourself",
+    "SPECIFY": "Please specify an amount you want to pay.",
+    "NO_MUCH": "You don´t have that much to pay!",
+    "NO_LESS": "You can't pay less than $1!",
+    "PAYED": "{{AUTHOR}} payed {{AMOUNT}}$ to {{USER}}"
+}
