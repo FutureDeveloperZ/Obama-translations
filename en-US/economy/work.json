@@ -2,8 +2,8 @@
     "DESCRIPTION": "Get your daily money",
     "USAGE": "",
 
-    "AGAIN": "Work again in ${time.minutes}m ${time.seconds}s",
+    "AGAIN": "Work again in {{MINUTES}} and {{SECONDS}}",
     "TITLE": "You already worked today!",
     "TITLE2": "Congrats!",
-    "REWARD": "You received {{REWARD}} for your work."
+    "REWARD": "You received {{REWARD}}$ for your work."
 }
