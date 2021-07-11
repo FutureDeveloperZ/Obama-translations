@@ -1,8 +1,8 @@
 {
-	"ADMINISTRATOR": "Administrator",
-	"VIEW_AUDIT_LOG": "View Audit Log",
-	"VIEW_GUILD_INSIGHTS": "View Server Insights",
-	"MANAGE_GUILD": "Manage Server",
+	"ADMINISTRATOR": "管理者",
+	"VIEW_AUDIT_LOG": "監査ログの表示",
+	"VIEW_GUILD_INSIGHTS": "サーバーインサ イトを表示",
+	"MANAGE_GUILD": "サーバー の管理",
 	"MANAGE_ROLES": "Manage Roles",
 	"MANAGE_CHANNELS": "Manage Channels",
 	"KICK_MEMBERS": "Kick Members",
