@@ -10,7 +10,7 @@
 	"CREATE_INSTANT_INVITE": "Crear Invitación",
 	"CHANGE_NICKNAME": "Cambia soprannome",
 	"MANAGE_NICKNAMES": "Gestionar Apodos",
-	"MANAGE_EMOJIS": "Gestionar emojis",
+	"MANAGE_EMOJIS_AND_STICKERS": "Manage Emojis & Stickers",
 	"MANAGE_WEBHOOKS": "Gestionar Webhooks",
 	"VIEW_CHANNEL": "Leer canales de texto y ver canales de voz",
 	"SEND_MESSAGES": "Enviar mensajes",
